@@ -1,0 +1,17 @@
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\bin\Debug\netstandard2.0\Rescue_Assistant.deps.json
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\bin\Debug\netstandard2.0\Rescue_Assistant.dll
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\bin\Debug\netstandard2.0\ref\Rescue_Assistant.dll
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\bin\Debug\netstandard2.0\Rescue_Assistant.pdb
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Rescue_Assistant.csprojAssemblyReference.cache
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Rescue_Assistant.AssemblyInfoInputs.cache
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Rescue_Assistant.AssemblyInfo.cs
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Rescue_Assistant.dll
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\ref\Rescue_Assistant.dll
+C:\Users\Illya\Desktop\Project for TUKE\Rescue_Assistant\Rescue_Assistant\Rescue_Assistant\obj\Debug\netstandard2.0\Rescue_Assistant.pdb
